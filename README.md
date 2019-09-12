@@ -1,5 +1,5 @@
 # HW1
-**REST Client**
+**REST CLIENT**
 
 ***Output from node index.js command***
 > **listAuthenicatedUserRepos()**
@@ -9,7 +9,7 @@
 
 > **listBranches(owner,repo)**
 <p align="center"> 
-<img src="https://github.ncsu.edu/uschatto/HW1-510/blob/master/resources/imgs/listbranches.PNG" width="700" height="150">
+<img src="https://github.ncsu.edu/uschatto/HW1-510/blob/master/resources/imgs/listbranches.PNG" width="700" height="100">
 </p>
 
 > **createRepo(owner,repo)**
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center"> 
-<img src="https://github.ncsu.edu/uschatto/HW1-510/blob/master/resources/imgs/createrepo2.PNG" width="800" height="200">
+<img src="https://github.ncsu.edu/uschatto/HW1-510/blob/master/resources/imgs/createrepo2.PNG" width="800" height="100">
 </p>
 
 > **createIssue(owner,repo,issueName,issueBody)**
@@ -38,4 +38,11 @@
 > **npm test screenshot**
 <p align="center"> 
 <img src="https://github.ncsu.edu/uschatto/HW1-510/blob/master/resources/imgs/npmtest.PNG" width="700" height="300">
+</p>
+
+**REST SERVER**
+
+> **Output from curl commands**
+<p align="center"> 
+<img src="https://github.ncsu.edu/uschatto/HW1-510/blob/master/resources/imgs/restserver.PNG" width="900" height="150">
 </p>
